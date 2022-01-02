@@ -2842,10 +2842,10 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.0.tgz#582605e6968f634684da7cc3308c3353595e326b"
   integrity sha512-dr+GL+KmAOpQva/NlcIij061LZFUMUv2S5o8HZvGK4vOKvWX9apzlBn9ZRS73Kj5ASKu8x4hc+ExD8XGLIxvjw==
 
-"@sushiswap/default-token-list@5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-5.12.0.tgz#e18a88648e0940de4772056988b71ea4f1459b90"
-  integrity sha512-U0UKI+AxnacsScJq6RLocnJ5TCAH41U8tgi9DS3iK34uRq/ECq8ncskaYTFiuxduS/z6WpDtgflLXFJrDBAzIw==
+"@sushiswap/default-token-list@^6.0.1":
+  version "6.58.0"
+  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.58.0.tgz#ef94e0510e7f574a218ad98c0eabe9ef48f867ff"
+  integrity sha512-VR8O3+IgQRAFu+NTVft8XvuZbRpJlL5jocC8YrvhyVcd27O/hFH01Wh0CW2SiBlHROTf/JF1vNLQ2ztNt87qhg==
 
 "@sushiswap/sdk@5.0.0-canary.6":
   version "5.0.0-canary.6"
@@ -18521,9 +18521,9 @@ tmp@~0.2.1:
     rimraf "^3.0.0"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
