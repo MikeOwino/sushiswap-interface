@@ -2842,10 +2842,10 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.0.tgz#582605e6968f634684da7cc3308c3353595e326b"
   integrity sha512-dr+GL+KmAOpQva/NlcIij061LZFUMUv2S5o8HZvGK4vOKvWX9apzlBn9ZRS73Kj5ASKu8x4hc+ExD8XGLIxvjw==
 
-"@sushiswap/default-token-list@5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-5.12.0.tgz#e18a88648e0940de4772056988b71ea4f1459b90"
-  integrity sha512-U0UKI+AxnacsScJq6RLocnJ5TCAH41U8tgi9DS3iK34uRq/ECq8ncskaYTFiuxduS/z6WpDtgflLXFJrDBAzIw==
+"@sushiswap/default-token-list@^6.0.1":
+  version "6.58.0"
+  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.58.0.tgz#ef94e0510e7f574a218ad98c0eabe9ef48f867ff"
+  integrity sha512-VR8O3+IgQRAFu+NTVft8XvuZbRpJlL5jocC8YrvhyVcd27O/hFH01Wh0CW2SiBlHROTf/JF1vNLQ2ztNt87qhg==
 
 "@sushiswap/sdk@5.0.0-canary.6":
   version "5.0.0-canary.6"
@@ -13587,9 +13587,9 @@ nano-json-stream-parser@^0.1.2:
   integrity sha1-DMj20OK2IrR5xA1JnEbWS3Vcb18=
 
 nanoid@^3.1.22:
-  version "3.1.22"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.22.tgz#b35f8fb7d151990a8aebd5aa5015c03cf726f844"
-  integrity sha512-/2ZUaJX2ANuLtTvqTlgqBQNJoQO398KyJgZloL0PZkC0dpysjncRUPsFe3DUPzz/y3h+u7C46np8RMuvF3jsSQ==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.2.0.tgz#62667522da6673971cca916a6d3eff3f415ff80c"
+  integrity sha512-fmsZYa9lpn69Ad5eDn7FMcnnSR+8R34W9qJEijxYhTbfOWzr22n1QxCMzXLK+ODyW2973V3Fux959iQoUxzUIA==
 
 nanomatch@^1.2.9:
   version "1.2.13"
