@@ -2842,10 +2842,10 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.0.tgz#582605e6968f634684da7cc3308c3353595e326b"
   integrity sha512-dr+GL+KmAOpQva/NlcIij061LZFUMUv2S5o8HZvGK4vOKvWX9apzlBn9ZRS73Kj5ASKu8x4hc+ExD8XGLIxvjw==
 
-"@sushiswap/default-token-list@5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-5.12.0.tgz#e18a88648e0940de4772056988b71ea4f1459b90"
-  integrity sha512-U0UKI+AxnacsScJq6RLocnJ5TCAH41U8tgi9DS3iK34uRq/ECq8ncskaYTFiuxduS/z6WpDtgflLXFJrDBAzIw==
+"@sushiswap/default-token-list@^6.0.1":
+  version "6.58.0"
+  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.58.0.tgz#ef94e0510e7f574a218ad98c0eabe9ef48f867ff"
+  integrity sha512-VR8O3+IgQRAFu+NTVft8XvuZbRpJlL5jocC8YrvhyVcd27O/hFH01Wh0CW2SiBlHROTf/JF1vNLQ2ztNt87qhg==
 
 "@sushiswap/sdk@5.0.0-canary.6":
   version "5.0.0-canary.6"
@@ -19083,9 +19083,9 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.4.3, url-parse@^1.5.1:
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.1.tgz#d5fa9890af8a5e1f274a2c98376510f6425f6e3b"
-  integrity sha512-HOfCOUJt7iSYzEx/UqgtwKRMC6EU91NFhsCHMv9oM03VJcVo2Qrp8T8kI9D7amFf1cu+/3CEhgb3rF9zL7k85Q==
+  version "1.5.7"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.7.tgz#00780f60dbdae90181f51ed85fb24109422c932a"
+  integrity sha512-HxWkieX+STA38EDk7CE9MEryFeHCKzgagxlGvsdS7WBImq9Mk+PGwiT56w82WI3aicwJA8REp42Cxo98c8FZMA==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
