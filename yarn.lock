@@ -2842,10 +2842,10 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/core/-/core-2.0.0-canary.0.tgz#582605e6968f634684da7cc3308c3353595e326b"
   integrity sha512-dr+GL+KmAOpQva/NlcIij061LZFUMUv2S5o8HZvGK4vOKvWX9apzlBn9ZRS73Kj5ASKu8x4hc+ExD8XGLIxvjw==
 
-"@sushiswap/default-token-list@5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-5.12.0.tgz#e18a88648e0940de4772056988b71ea4f1459b90"
-  integrity sha512-U0UKI+AxnacsScJq6RLocnJ5TCAH41U8tgi9DS3iK34uRq/ECq8ncskaYTFiuxduS/z6WpDtgflLXFJrDBAzIw==
+"@sushiswap/default-token-list@^6.0.1":
+  version "6.58.0"
+  resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.58.0.tgz#ef94e0510e7f574a218ad98c0eabe9ef48f867ff"
+  integrity sha512-VR8O3+IgQRAFu+NTVft8XvuZbRpJlL5jocC8YrvhyVcd27O/hFH01Wh0CW2SiBlHROTf/JF1vNLQ2ztNt87qhg==
 
 "@sushiswap/sdk@5.0.0-canary.6":
   version "5.0.0-canary.6"
@@ -6878,9 +6878,9 @@ cookie@0.4.0:
   integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg==
 
 cookiejar@^2.1.0, cookiejar@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
-  integrity sha512-Mw+adcfzPxcPeI+0WlvRrr/3lGVO0bD75SxX6811cxSh1Wbxx7xZBGK1eVtDf6si8rg2lhnUjsVLMFMfbRIuwA==
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-concurrently@^1.0.0:
   version "1.0.5"
